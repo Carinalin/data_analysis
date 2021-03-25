@@ -9,7 +9,7 @@
 
 ## kaggle_competition_practice(kaggle竞赛案例)
 * 本人参考了一些大神的分享，书写的适合新人学习的kaggle经典案例notebook。
-* 目前已更新【数字识别】、【泰坦尼克号】两个案例。
+* 目前已更新【数字识别】、【泰坦尼克号】、【房价预测】三个案例。
 
 ## python_basic_practice(基础分析)
 * python基础的统计分析案例
